@@ -1,3 +1,4 @@
 this is second file
 this is line two.
 changed second file
+New title feature
