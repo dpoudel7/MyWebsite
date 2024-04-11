@@ -1,2 +1,3 @@
 this is first file
 conflict
+lets change this file for remote conflict
