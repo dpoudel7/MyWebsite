@@ -2,3 +2,4 @@ this is first file
 conflict
 
 u2 change
+lets change this file for remote conflict
