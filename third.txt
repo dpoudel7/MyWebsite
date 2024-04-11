@@ -1,6 +1,7 @@
 This is third file
-<<<<<<< HEAD
 rebase main example
-=======
+
 rebase exampample f1
->>>>>>> fdf105b (f1 completed)
+
+rebase exampample f1
+
