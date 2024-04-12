@@ -1,0 +1,6 @@
+bin
+.vscode/*
+!.vscode/settings.json
+*.code-workspace
+demo.txt
+second.txt
